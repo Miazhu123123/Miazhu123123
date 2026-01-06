@@ -14,9 +14,9 @@ Projects
 IoT Data Platform (Internship Project)  
 Software Engineering Intern – Luckin Coffee (IoT Technology Center)
 
-- Contributed to the design and implementation of a cloud-based IoT data platform for commercial devices.
-- Worked on digital twin modeling, device-to-cloud data transmission pipelines, and cloud database development.
-- Gained experience with system integration across devices, edge components, and cloud services.
+- Contributed to the design and implementation of a cloud-based IoT data platform supporting commercial devices.
+- Worked on digital twin modeling, device-to-cloud data transmission pipelines, and cloud database components.
+- Assisted with system integration across devices, edge components, and cloud services.
 
 Technologies: Java, TCP/MQTT, SQL  
 Note: Repository is private due to company confidentiality.
@@ -26,23 +26,24 @@ Note: Repository is private due to company confidentiality.
 University Web Applications (Group Projects)  
 University of Auckland – Course Group Projects
 
-- Developed full-stack web applications as part of university group projects.
-- Contributed to frontend development, backend API design, and system integration.
-- Focused on building complete, deployable systems rather than isolated features.
+- Implemented frontend features using Next.js (App Router) and React in team-based web applications.
+- Built serverless API routes for core functionalities, with partial database interactions using existing MongoDB models.
+- Collaborated with teammates to integrate frontend and backend features into complete, deployable systems.
 
 Technologies: Next.js, React, Node.js, MongoDB  
-Status: Repositories are currently private due to course policies; permission to make public versions is in progress.
+Status: Repository is public.
+Link: https://github.com/UOA-CS732-S1-2025/group-project-zany-zorillas
 
 ---
 
 VR Exergame System (Research Project)
 
-- Participated in the development of an immersive rowing exergame using Unity.
+- Contributed to the development of an immersive rowing exergame using Unity.
 - Worked on data processing, device integration, and synchronization between hardware devices and the VR environment.
-- Supported performance validation and system stability for interactive and real-time user experiences.
+- Supported system stability and performance validation for real-time interactive experiences.
 
-Technologies: Unity, C#, VR devices, data processing pipelines  
-Status: code not publicly available.
+Technologies: Unity, C#, VR devices  
+Status: Code not publicly available.
 
 ---
 
