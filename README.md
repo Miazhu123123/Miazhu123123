@@ -49,7 +49,7 @@ My current postgraduate research focuses on **on-device multimodal large languag
 
 **Technologies:** React Native, Expo, TypeScript, Node.js, Supabase  
 **Status:** Personal project
-
+**Link:** https://github.com/MiCiMiCi-Labs/pinme-dating-app
 ---
 
 ### AI-Assisted Recipe Platform  
