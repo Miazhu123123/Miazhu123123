@@ -43,13 +43,13 @@ My current postgraduate research focuses on **on-device multimodal large languag
 ### PinMe Dating App  
 **Full-Stack Mobile Developer**
 
-- Built a mobile dating application using React Native, Expo, TypeScript, and Supabase.
-- Developed authentication, user profiles, discovery, matching, chat, and voice-room features.
-- Improved API performance, mobile UI flows, and cross-platform usability.
+- Developed a mobile dating application using React Native, Expo, TypeScript, and Supabase.
+- Built core features including authentication, user profiles, discovery, matching, real-time chat, and voice rooms.
+- Improved API performance, mobile user flows, and cross-platform usability.
 
 **Technologies:** React Native, Expo, TypeScript, Node.js, Supabase  
-**Status:** Personal project
-**Link:** https://github.com/MiCiMiCi-Labs/pinme-dating-app
+**Link:** [GitHub Repository](https://github.com/MiCiMiCi-Labs/pinme-dating-app)
+
 ---
 
 ### AI-Assisted Recipe Platform  
@@ -60,8 +60,7 @@ My current postgraduate research focuses on **on-device multimodal large languag
 - Built serverless API routes and deployed the application on Vercel.
 
 **Technologies:** Next.js, React, Node.js, MongoDB  
-**Status:** Repository is public  
-**Link:** https://github.com/UOA-CS732-S1-2025/group-project-zany-zorillas
+**Link:** [GitHub Repository](https://github.com/UOA-CS732-S1-2025/group-project-zany-zorillas)
 
 ---
 
